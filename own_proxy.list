@@ -1,3 +1,5 @@
 # 上海地区经常会出现这个网站的DNS污染导致无法访问
 DOMAIN-SUFFIX,91mayi.com
 DOMAIN-SUFFIX,mayiyingshi.com
+# opensea
+DOMAIN-SUFFIX,opensea.io
