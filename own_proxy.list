@@ -7,3 +7,7 @@ DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,binance.com
 # Freenom
 DOMAIN-SUFFIX,freenom.com
+# 云数据库
+DOMAIN-SUFFIX,planetscale.com
+# 航迹
+DOMAIN-SUFFIX,flightradar24.com
