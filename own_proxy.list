@@ -14,4 +14,4 @@ DOMAIN-SUFFIX,flightradar24.com
 # metamask接口
 DOMAIN,mainnet.infura.io
 # openai
-DOMAIN,openai.com
+DOMAIN-SUFFIX,openai.com
