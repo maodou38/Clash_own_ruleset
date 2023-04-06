@@ -15,3 +15,5 @@ DOMAIN-SUFFIX,flightradar24.com
 DOMAIN,mainnet.infura.io
 # openai
 DOMAIN-SUFFIX,openai.com
+# tradingview
+DOMAIN-SUFFIX,tradingview.com
