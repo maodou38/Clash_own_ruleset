@@ -17,3 +17,5 @@ DOMAIN,mainnet.infura.io
 DOMAIN-SUFFIX,openai.com
 # tradingview
 DOMAIN-SUFFIX,tradingview.com
+# doprax v2ray
+DOMAIN-SUFFIX,doprax.com
