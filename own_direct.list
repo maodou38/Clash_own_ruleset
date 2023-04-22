@@ -2,3 +2,6 @@ DOMAIN-SUFFIX,getui.com
 # 同花顺
 DOMAIN-SUFFIX,hexin.cn
 DOMAIN-SUFFIX,10jqka.com.cn
+# 上海地区经常会出现这个网站的DNS污染导致无法访问
+DOMAIN-SUFFIX,91mayi.com
+DOMAIN-SUFFIX,mayiyingshi.com
