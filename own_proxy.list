@@ -16,3 +16,5 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,tradingview.com
 # doprax v2ray
 DOMAIN-SUFFIX,doprax.com
+# 添加youtuber的网站
+DOMAIN-SUFFIX,v2rayssr.com
