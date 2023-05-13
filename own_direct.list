@@ -5,3 +5,5 @@ DOMAIN-SUFFIX,10jqka.com.cn
 # 上海地区经常会出现这个网站的DNS污染导致无法访问
 DOMAIN-SUFFIX,91mayi.com
 DOMAIN-SUFFIX,mayiyingshi.com
+# 直连代理
+DOMAIN-SUFFIX,jsdelivr.net
