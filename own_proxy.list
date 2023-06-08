@@ -20,3 +20,5 @@ DOMAIN-SUFFIX,doprax.com
 DOMAIN-SUFFIX,v2rayssr.com
 # ether
 DOMAIN-SUFFIX,etherscan.com
+# 微软登录页中间js产物网站
+DOMAIN-SUFFIX,msftauth.net
