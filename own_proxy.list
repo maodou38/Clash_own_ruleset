@@ -22,3 +22,5 @@ DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,etherscan.com
 # 微软登录页中间js产物网站
 DOMAIN-SUFFIX,msftauth.net
+# claude2
+DOMAIN-SUFFIX,anthropic.com
